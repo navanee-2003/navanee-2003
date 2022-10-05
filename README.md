@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ navaneethan
+- 👋 Hi, I’m @ Navaneethan
 - 👀 I’m interested in Web3 and Blockchain
 - 🌱 I’m currently learning Computer Science and Engineering
 - 📫 https://www.linkedin.com/in/navaneethan-ganeshram/
