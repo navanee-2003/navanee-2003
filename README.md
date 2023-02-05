@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navaneethan !</h1>
-<h3 align="center">I am a computer science engineering aspirant with progressive knowledge in writing code and designing solutions.</h3>
+<h3 align="center">A highly motivated and enthusiastic student seeking a summer internship
+in the field of blockchain technology. Eager to contribute to the creation of
+cutting-edge blockchain-based solutions and acquire beneficial practical
+experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navanee-2003&label=Profile%20views&color=0e75b6&style=flat" alt="navanee-2003" /> </p>
 
